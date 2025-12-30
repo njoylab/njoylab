@@ -1,4 +1,3 @@
-# Emiliano
 Full-stack dev & product builder based in Milan.  
 I build small, useful tools and ship them fast.
 
