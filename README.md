@@ -1,16 +1,13 @@
-## Hi there 👋
+# Emiliano
+Full-stack dev & product builder based in Milan.  
+I build small, useful tools and ship them fast.
 
-<!--
-**njoylab/njoylab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Selected projects
+- **InstaTrack** → https://github.com/njoylab/instatrack  
+- **JSON Linter / Formatter** → https://github.com/njoylab/json-linter-tool  
+- **Room Book + AirTable** → https://github.com/njoylab/room-book-simple
+- **URL Summary** → https://github.com/njoylab/urlsummary.echovalue.dev
+- **DNS / Lookup tools** → https://github.com/njoylab/lookup.echovalue.dev
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ https://njoylab.com  
+→ https://echovalue.dev
