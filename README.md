@@ -8,5 +8,8 @@ I build small, useful tools and ship them fast.
 - **URL Summary** → https://github.com/njoylab/urlsummary.echovalue.dev
 - **DNS / Lookup tools** → https://github.com/njoylab/lookup.echovalue.dev
 
+### Data & automation
+- **Apify Actors** → https://apify.com/njoylab?fpr=njoylab
+
 → https://njoylab.com  
 → https://echovalue.dev
